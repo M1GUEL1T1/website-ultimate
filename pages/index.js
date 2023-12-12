@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>TMG Remodeling</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo_painter.ico" />
       </Head>
 
       <main>
