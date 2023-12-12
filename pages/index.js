@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Paint & Remodeling</title>
+        <title>TMG Remodeling</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Yordanys Paint & Remodeling" classname="centered-text"/>
+        <Header title="TM & G Remodeling and Construction" classname="centered-text"/>
         <p className="centered-text">
-          A fast and affordable south florida paint and remodeling service.  
+          An affordable south florida paint and remodeling service.  
         </p> 
         <p className="description">
         Please contact us at: <code>786-778-2838</code>
