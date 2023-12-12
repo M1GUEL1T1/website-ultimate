@@ -14,8 +14,10 @@ export default function Home() {
         <Header title="Yordanys Paint & Remodeling" />
         <p className="description">
           A fast and affordable south florida paint and remodeling service. 
-          Please contact us at <code>786-778-2838</code> \n
-          Para español, por favor contáctenos al <code>786-294-5443</code> 
+          Please contact us at <code>786-778-2838</code> 
+        </p> 
+        <p>
+        Para español, por favor contáctenos al <code>786-294-5443</code> 
         </p>
       </main>
 
