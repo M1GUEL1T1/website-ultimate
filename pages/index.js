@@ -11,13 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Yordanys Paint & Remodeling" />
+        <Header title="Yordanys Paint & Remodeling" classname="centered-text"/>
         <p className="centered-text">
-          A fast and affordable south florida paint and remodeling service. 
-          Please contact us at <code>786-778-2838</code> 
+          A fast and affordable south florida paint and remodeling service.  
         </p> 
         <p className="centered-text">
-        Para español, por favor contáctenos al <code>786-294-5443</code> 
+        Please contact us at <code>786-778-2838</code>
+        </p>
+        <p className="centered-text">
+        Español: <code>786-294-5443</code> 
         </p>
       </main>
 
