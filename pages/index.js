@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Yordanys Paint & Remodeling" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A fast and affordale paint & remodeling service located in south florida. Contact <code>786-778-2838</code>
         </p>
       </main>
 
