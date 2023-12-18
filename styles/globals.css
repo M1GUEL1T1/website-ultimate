@@ -5,11 +5,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
 * {
   box-sizing: border-box;
 }
-
 main {
   padding: 5rem 0;
   flex: 1;
@@ -18,14 +16,12 @@ main {
   justify-content: center;
   align-items: center;
 }
-
 code {
   background: #fafafa;
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
-
 .container {
   height: 100vh;
   display: flex;
@@ -33,26 +29,32 @@ code {
   justify-content: center;
   align-items: center;
 }
-
 .centered-text {
   text-align: center;
 }
-
 .App {
   text-align: center;
 }
-
 .App-header {
   margin-top: 20px;
 }
-
 main {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-
 footer {
   /* Remove the logo */
   background-image: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.centered-text {
+  text-align: center;
 }
