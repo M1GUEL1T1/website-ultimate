@@ -37,3 +37,22 @@ code {
 .centered-text {
   text-align: center;
 }
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin-top: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer {
+  /* Remove the logo */
+  background-image: none;
+}

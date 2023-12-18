@@ -21,6 +21,9 @@ export default function Home() {
         <p className="centered-text">
         Español: <code>786-294-5443</code> 
         </p>
+        <img src="placeholder1.png" alt="Image 1" />
+        <img src="placeholder2.png" alt="Image 2" />
+        {/* Add more images as needed */}
       </main>
 
       <Footer />
