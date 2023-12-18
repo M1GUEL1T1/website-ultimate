@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="TM & G Remodeling and Construction" classname="centered-text"/>
+        <Header title="TM & G Remodeling and Construction" classname="container"/>
         <p className="centered-text">
           An affordable south florida paint and remodeling service.  
         </p> 
