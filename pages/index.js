@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>TMG Remodeling</title>
         <link rel="icon" href="/logo_painter.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
       <main>
@@ -17,9 +18,6 @@ export default function Home() {
         </p> 
         <p className="description">
         Please contact us at: <code>786-778-2838</code>
-        </p>
-        <p className="centered-text">
-        Español: <code>786-294-5443</code> 
         </p>
         <img src="/logo_painter.png" alt="Image 1" />
         <img src="/logo_painter.png" alt="Image 2" />
