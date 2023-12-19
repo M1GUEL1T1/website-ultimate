@@ -19,6 +19,9 @@ export default function Home() {
         <p className="description">
         Please contact us at: <code>786-778-2838</code>
         </p>
+        <p className="description">
+        See pictures of our work below:
+        </p>
         <img className="img-responsive" src="/logo_painter.png" alt="Image 1" />
         <img className="img-responsive" src="/logo_painter.png" alt="Image 2" />
         <img className="img-responsive" src="/logo_painter.png" alt="Image 3" />
@@ -28,7 +31,7 @@ export default function Home() {
         <img className="img-responsive" src="/logo_painter.png" alt="Image 7" />
         <img className="img-responsive" src="/logo_painter.png" alt="Image 8" />
         <img className="img-responsive" src="/logo_painter.png" alt="Image 9" />
-        
+
         <div className="backToTop">
         <button onClick={() => window.scrollTo(0, 0)}>Back to Top</button>
       </div>
