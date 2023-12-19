@@ -19,14 +19,19 @@ export default function Home() {
         <p className="description">
         Please contact us at: <code>786-778-2838</code>
         </p>
-        <img src="/logo_painter.png" alt="Image 1" />
-        <img src="/logo_painter.png" alt="Image 2" />
-        <img src="/logo_painter.png" alt="Image 3" />
-        <img src="/logo_painter.png" alt="Image 4" />
-        <img src="/logo_painter.png" alt="Image 5" />
-        <img src="/logo_painter.png" alt="Image 6" />
-        <img src="/logo_painter.png" alt="Image 7" />
-        <img src="/logo_painter.png" alt="Image 8" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 1" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 2" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 3" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 4" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 5" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 6" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 7" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 8" />
+        <img className="img-responsive" src="/logo_painter.png" alt="Image 9" />
+        
+        <div className="backToTop">
+        <button onClick={() => window.scrollTo(0, 0)}>Back to Top</button>
+      </div>
       </main>
 
       <Footer />
