@@ -36,8 +36,6 @@ export default function Home() {
         <button onClick={() => window.scrollTo(0, 0)}>Back to Top</button>
       </div>
       </main>
-
-      <Footer />
     </div>
   )
 }
